@@ -11,7 +11,7 @@ Text Domain:  Qmarto
 
 1. Body
 
-2. Layout 
+2. Layout
 
 3. Header
 
@@ -26,7 +26,7 @@ Text Domain:  Qmarto
 	6b. offer slider
 
 	6c. bestsell slider
- 
+
 	6d. featured slider
 
 	6e. special slider
@@ -34,7 +34,7 @@ Text Domain:  Qmarto
 	6f. Other Slider
 
 
-7. Products Grid 
+7. Products Grid
 
 8. Products List
 
@@ -58,7 +58,7 @@ Text Domain:  Qmarto
 	12k. Block: Tags
 	12l. Block: Subscribe
 	12m Block: Recently Viewed
-	12n. Block: Reorder 
+	12n. Block: Reorder
 	12m. Block: Banner
 
 13. custom-slider
@@ -70,10 +70,10 @@ Text Domain:  Qmarto
 	15a. Product Images
 	15b. Product Shop
 	15c.  Product Collatera
-	
+
 16. related slider & upsell slider
 
-17. Global Messages 
+17. Global Messages
 
 18. bottom banner
 
@@ -5791,15 +5791,17 @@ text-transform: uppercase
     margin-top: 40px;
     background-size: 100% 100%;
 }
-.hot-section img{
+
+.hot-section img {
     border-radius: 8px;
-    -webkit-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.55);
-    -moz-box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.55);
-    box-shadow: 0px 3px 10px 0px rgba(0,0,0,0.55);
+    -webkit-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.55);
+    -moz-box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.55);
+    box-shadow: 0px 3px 10px 0px rgba(0, 0, 0, 0.55);
     display: block;
     margin: 0 auto;
-    
+
 }
+
 .hot-section h2 {
     font-size: 44px;
     margin: 0px 0;
@@ -10231,9 +10233,10 @@ ul.shipping-pro li {
 .add-to-cart .qty {
     height: 48px;
     text-align: center;
-    width: 30px;
+    width: 120px;
     vertical-align: top;
     color: #333e48;
+    font-size: 25px;
 }
 
 .product-shop .button-up, .product-shop .button-down {
@@ -10266,11 +10269,12 @@ ul.shipping-pro li {
     margin-left: 10px;
 }
 
-.product-view .product-shop .add-to-box .custom {
+.add-to-box .custom {
+    padding-top: 10px;
+    padding-bottom: 10px;
     background: #fff;
     border: 1px #ddd solid;
     border-radius: 999px;
-    padding: 1px 2px
 }
 
 .custom button.items-count {
@@ -10283,9 +10287,9 @@ ul.shipping-pro li {
 }
 
 .custom button.items-count {
-    background-color: #fff;
+    background-color: #ebebeb;
     border: none;
-    color: #999;
+    color: #c32282;
     border-radius: 999px;
 }
 
@@ -10293,10 +10297,10 @@ ul.shipping-pro li {
     -webkit-transition: all 0.3s cubic-bezier(0.8, 0, 0, 1);
     -o-transition: all 0.3s cubic-bezier(0.8, 0, 0, 1);
     transition: all 0.3s cubic-bezier(0.8, 0, 0, 1);
-    box-shadow: inset 0 -45px 0 0 #88be4c;
-    border: 1px solid #88be4c;
+    box-shadow: inset 0 -45px 0 0 #c32282;
+    border: 1px solid #c32282;
     color: #fff;
-    background-color: #88be4c;
+    background-color: #c32282;
 }
 
 .product-view .product-shop .add-to-box .add-to-cart label {
@@ -12758,7 +12762,7 @@ footer a:hover {
 footer .coppyright {
     color: #d3b2c7;
     font-size: 16px;
- }
+}
 
 .footer-bottom {
     padding: 0px;
@@ -13994,7 +13998,25 @@ button.button span span {
 }
 
 .custom-slider img {
-    border-radius: 0px
+    border-radius: 0px;
+    max-height: 350px;
+    object-fit: cover;
+    width: 100%;
+
+}
+
+.carousel-indicators li {
+    background-color: #fff;
+    width: 13px;
+    height: 13px;
+}
+
+.carousel-indicators .active {
+    background-color: #c32282;
+    border-color: #c32282;
+    width: 13px;
+    height: 13px;
+    margin: 1px;
 }
 
 .custom-slider .link {
@@ -14635,7 +14657,7 @@ button.button span span {
 .quick-view-box .add-to-cart .qty {
     height: 42px;
     text-align: center;
-    width: 30px;
+    width: 40px;
     vertical-align: top;
     color: #333e48;
 }
@@ -15418,6 +15440,7 @@ select#shipping-address-select {
     border-radius: 5px;
     padding: 16px 25px;
     font-size: 16px;
+    border: 0;
 }
 
 .rev_slider .my-button {
@@ -15535,9 +15558,11 @@ h3.my-title::after {
 .new_title h3::before {
     background-color: #ebebeb;
 }
+
 .new_title h3::after {
     background-color: #c32282;
 }
+
 .buy-btn {
     font-family: 'Ubuntu', sans-serif;
 }
@@ -15560,26 +15585,32 @@ h3.my-title::after {
     font-size: 17px;
     margin-bottom: 35px;
 }
-.new_title h3{
+
+.new_title h3 {
     font-size: 40px;
     color: #c32282;
     margin-bottom: 40px;
 }
-.products-grid .info-inner .item-title p{
+
+.products-grid .info-inner .item-title p {
     margin-top: 8px;
     margin-bottom: 0;
 }
-.products-grid .info-inner .item-title p:nth-child(3){
+
+.products-grid .info-inner .item-title p:nth-child(3) {
     color: #686b70;
     font-size: 14px;
 }
-.products-grid .info-inner .item-title p:nth-child(2){
+
+.products-grid .info-inner .item-title p:nth-child(2) {
     font-weight: 600;
 }
-.line-through{
+
+.line-through {
     text-decoration: line-through;
 }
-.download-section{
+
+.download-section {
     background: url(../images/download-bg.jpg) no-repeat 0 0px;
     padding: 100px 0px 100px 0px;
     overflow: hidden;
@@ -15587,27 +15618,32 @@ h3.my-title::after {
     background-size: cover;
     position: relative;
 }
-.download-btn{
+
+.download-btn {
     text-align: center;
 }
-.download-btn img{
+
+.download-btn img {
     height: 60px;
-    width:auto;
+    width: auto;
     margin: 0 10px;
     border-radius: 6px;
     transition: all ease-in-out 0.3s;
 
 }
-.download-btn a:hover img{
+
+.download-btn a:hover img {
     opacity: 0.8;
 }
-.download-section h3{
+
+.download-section h3 {
     color: #fff;
     font-size: 50px;
     text-align: center;
     margin-top: 40px;
     margin-bottom: 0;
 }
+
 .download-section::before {
     content: '';
     position: absolute;
@@ -15620,18 +15656,288 @@ h3.my-title::after {
     bottom: 0;
     z-index: 0;
 }
+
 footer {
     background: url(../images/footer-bg.jpg) no-repeat 0 0px;
     background-size: 100% 100%;
 }
-.footer-about{
+
+.footer-about {
     color: #fff;
     font-size: 16px;
 }
-.social a{
+
+.social a {
     background: #fff !important;
     border-radius: 50% !important;
 }
-.social a:before{
+
+.social a:before {
     color: #c32282;
+}
+
+.food-details-container {
+    padding: 15px;
+    border: 1px solid #ebebeb;
+    margin: 15px 0;
+}
+
+.food-details-container h3 {
+    margin-top: 0;
+}
+
+.light-f-color {
+    color: #b7b7b7;
+}
+
+.food-details-container p {
+    font-size: 18px;
+}
+
+.light-box {
+    background-color: #ebebeb;
+}
+
+.light-box h3 {
+    color: #c32282;
+    margin: 0;
+    padding: 15px 0;
+    padding-top: 16px;
+    line-height: 1;
+}
+
+.white-bg {
+    background: #fff;
+}
+
+.mt-3 {
+    margin-top: 1.5rem;
+}
+
+.big-price {
+    color: #c32282;
+}
+
+input.qty {
+    color: #c32282 !important;
+}
+
+.food-details-container .checkbox {
+    padding-left: 20px;
+    position: relative;
+    display: block;
+}
+
+.food-details-container .checkbox input {
+    opacity: 0;
+    position: absolute;
+    z-index: 1;
+    cursor: pointer;
+    margin-left: -20px;
+}
+
+.food-details-container .checkbox input:checked + label::before {
+    border-color: #c32282;
+}
+
+.food-details-container .checkbox input:checked + label::after {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 13px;
+    height: 13px;
+    left: 2px;
+    top: 4px;
+    margin-left: -20px;
+    border: 1px solid #c32282;
+    border-radius: 50%;
+    background-color: #c32282;
+}
+
+.food-details-container .checkbox label {
+    display: inline-block;
+    position: relative;
+    padding-left: 5px;
+    font-size: 17px;
+    color: #b7b7b7;
+}
+
+.food-details-container .checkbox label::before {
+    content: '';
+    display: inline-block;
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 0;
+    top: 2px;
+    margin-left: -20px;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.food-details-container .checkbox input:checked + label::before {
+    border-color: #c32282;
+    background-color: #c32282;
+}
+
+.food-details-container .checkbox input:checked + label::after {
+    content: "\f00c";
+    font-family: FontAwesome;
+    font-size: 13px;
+    color: #fff;
+    top: 0;
+    left: 1px;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.food-details-container .checkbox label::before {
+    border-radius: 2px;
+}
+
+.notes-textarea {
+    border: 1px solid #ebebeb;
+    width: 100%;
+    height: 100px;
+    resize: none;
+    font-size: 17px;
+    color: #b7b7b7;
+}
+
+.color-btn {
+    background-color: #c32282;
+    color: #fff;
+    border: 2px solid #c32282;
+}
+
+.color-btn:hover {
+    color: #c32282;
+    background-color: #fff;
+}
+.green-button{
+    background-color: #39b54a;
+    color: #fff;
+    border: 2px solid #39b54a;
+}
+.green-button:hover {
+    color: #39b54a;
+    background-color: #fff;
+}
+.d-block {
+    display: block !important;
+    width: 100%;
+}
+
+.shop-btn {
+    font-size: 23px;
+    margin-bottom: 40px;
+    margin-top: 15px;
+
+}
+
+.color-title {
+    padding: 15px 20px;
+    background-color: #931061;
+    color: #ffc107;
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.color-title i {
+    color: #fff;
+    position: absolute;
+    right: 20px;
+    top: 15px;
+}
+
+.shop-list-container {
+    background-color: #f4f4f4;
+    padding: 15px;
+    margin-bottom: 20px ;
+}
+
+.shop-list-count input.qty {
+    width: 31px;
+    padding: 0;
+    text-align: center;
+    background: transparent;
+    border: 0;
+    font-size: 17px;
+}
+
+.shop-list-count .custom button.items-count {
+    height: 27px;
+    width: 27px;
+    padding: 0px;
+    padding-left: 3px;
+    line-height: 26px;
+    border: 1px solid transparent;
+    background-color: #a1a1a1;
+    color: #fff;
+}
+
+.shop-list-count .custom {
+    display: inline-block;
+}
+
+.shop-list-count h5 {
+    display: inline-block;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.shop-list-d-count {
+    text-align: right;
+    font-size: 18px;
+    padding-top: 10px;
+    color: #c32282;
+}
+.shop-list-d-count li i{
+    color: #eaa08e;
+}
+.shop-list-d-count li{
+    margin-bottom: 15px;
+}
+.d-button{
+    background-color: transparent;
+    border: 0;
+    padding: 0;
+
+}
+.d-button i{
+    transition: all ease-in-out 0.3s;
+
+}
+.d-button:hover i{
+    color: #d33 ;
+}
+.wight-title{
+    color: #c32282;
+    background-color: #fff;
+    margin: 10px 0;
+    display: block;
+    text-align: center;
+    padding: 15px;
+    font-size: 20px;
+}
+.total-title{
+    font-size: 20px;
+    display: inline-block;
+    width: 70%;
+    float: left;
+}
+.total-title-num{
+    float: left;
+    font-size: 20px;
+    display: inline-block;
+    color: #c32282;
+}
+.shop-list-container .green-button{
+    margin-top: 15px;
+    font-size: 20px;
+    padding-top: 8px;
+    padding-bottom: 10px;
 }
