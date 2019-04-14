@@ -16301,4 +16301,7 @@ input.qty {
         height: auto;
 
     }
+    .tap-list a{
+        font-size: 18px;
+    }
 }
