@@ -16284,6 +16284,84 @@ input.qty {
 .rating-btn:hover{
     background-color: #c32282;
 }
+.restaurant-rating-big h3{
+    margin-top: 21px;
+    font-size: 27px;
+    color: #931061;
+}
+.ratting-plus-btn{
+    height: 50px;
+    width: 50px;
+    padding-left: 11px;
+    line-height: 47px;
+    text-align: center;
+    color: #a1a1a1;
+    border: 1px solid #a1a1a1;
+    background-color: transparent;
+    font-size: 20px;
+    border-radius: 50%;
+    transition: all ease-in-out 0.3s;
+    margin-top: 10px;
+}
+.ratting-plus-btn:hover{
+    background-color: #c32282;
+    color: #fff;
+    border-color: #c32282;
+}
+.big-star-r{
+    margin-top: 10px;
+}
+.big-star-r .rating-summary .rating-result:before,
+.big-star-r .rating-summary .rating-result > span:before{
+    font-size: 30px;
+    height: 31px;
+    line-height: 33px;
+    padding-left: 2px;
+}
+.big-star-r .rating-result{
+    margin-left: 0;
+}
+.big-star-r .rating-summary .rating-result{
+    width: 146px;
+}
+.restaurant-rating-big{
+    margin-bottom: 30px;
+}
+.restaurant-rating-card{
+    border-top: 1px solid #a1a1a1;
+    padding-top: 15px;
+    margin-bottom: 20px;
+}
+.restaurant-rating-card h4{
+    color: #931061;
+    font-size: 20px;
+}
+.restaurant-rating-card .product-reviews-summary{
+    margin-top: 8px;
+}
+.restaurant-rating-card .rating-summary .rating-result:before, .restaurant-rating-card .rating-summary .rating-result > span:before{
+    font-size: 20px;
+    height: 25px;
+}
+.restaurant-rating-card .rating-result{
+    width: 98px;
+}
+.d-inline-block{
+    display: inline-block !important;
+}
+.restaurant-rating-card p{
+    color: #b7b7b7;
+    font-size: 17px;
+}
+.restaurant-rating-card span.date-span{
+    color: #b7b7b7;
+    font-size: 15px;
+    margin-right: 3px;
+    margin-left: 10px;
+}
+.mt-2{
+    margin-top: 1rem;
+}
 @media (max-width: 767px){
     .meals-container .media .media-left,
     .restaurant-media-con .media .media-left{
