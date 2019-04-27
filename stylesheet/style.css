@@ -11409,14 +11409,12 @@ button.button.submit:before {
 .shopping-cart-tbl {
     padding: 0px 0px;
     position: relative;
-    margin-top: 0px;
-    padding-bottom: 5px;
+    margin-top: 50px;
     background-color: #fff;
     border-width: 1px;
     border-style: solid;
     border-color: #eee #eee #d5d5d5 #eee;
-    box-shadow: 0 5px 0 rgba(200, 200, 200, .2);
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 .cart {
@@ -11430,7 +11428,6 @@ button.button.submit:before {
     width: 100%;
     background-color: #FFFFFF;
     text-align: left;
-    margin-top: 5px;
 }
 
 .cart-table .btn-continue {
@@ -11531,7 +11528,7 @@ a.edit-bnt:hover {
     display: none;
 }
 
-#shopping-cart-table a.remove-item {
+#shopping-cart-table .remove-item {
     background-color: #fff;
     background-image: none;
     color: #333;
@@ -11548,19 +11545,19 @@ a.edit-bnt:hover {
 
 }
 
-#shopping-cart-table a.remove-item:hover {
+#shopping-cart-table .remove-item:hover {
     background-color: #ffc107;
     color: #fff;
     border: 1px #ffc107 solid
 }
 
-#shopping-cart-table a.remove-item:before {
+#shopping-cart-table .remove-item:before {
     content: "\f014";
     font-family: FontAwesome;
     font-size: 16px;
 }
 
-#shopping-cart-table a.remove-item span {
+#shopping-cart-table .remove-item span {
     display: none;
 }
 
@@ -16699,6 +16696,151 @@ a.btn_map:hover{
     width: 100%;
     height: auto;
 }
+.account-container{
+    padding: 15px;
+    border: 1px solid #e1e1e1;
+    margin-top: 50px;
+}
+.account-container .title-img{
+    margin-top: 5px;
+}
+.account-container i.fa-pencil{
+    border-radius: 50%;
+    background-color: #b8b8b8;
+    color: #fff;
+    height: 35px;
+    width: 35px;
+    line-height: 35px;
+    font-size: 20px;
+    text-align: center;
+}
+.title-img img{
+    max-height: 26px;
+    margin-top: -7px;
+    margin-right: 3px;
+}
+.acc-title{
+    border-bottom: 1px solid #e1e1e1;
+    padding-bottom: 5px;
+}
+.img-border{
+    height: 320px;
+    padding: 10px;
+    border: 1px solid #e1e1e1;
+}
+.acc-details{
+    margin-top: 10px;
+}
+.img-border img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+h3.st-title:before{
+    background-color: #c32282;
+}
+h3.st-title{
+    margin-top: 20px;
+}
+#shopping-cart-table{
+    text-align: center;
+}
+#shopping-cart-table th{
+    text-align: center;
+}
+#shopping-cart-table tr th:nth-child(2){
+    text-align: left;
+}
+#shopping-cart-table tr td:nth-child(2){
+    text-align: left;
+}
+#shopping-cart-table thead tr th{
+    background-color: #af116f;
+    color: #fff;
+    font-size: 18px;
+}
+td.table-title{
+    background-color: #ebebeb;
+    color: #af116f;
+    font-size: 20px;
+    font-weight: 700;
+}
+.total-table-container{
+    background-color: #ebebeb;
+    color: #707070;
+    padding: 20px;
+    position: relative;
+    margin-left: -15px;
+    margin-right: -15px;
+    margin-bottom: 10px;
+}
+.total-table-container::before{
+    position: absolute;
+    content: '';
+    display: block;
+    width: 1px;
+    top: 20px;
+    bottom:20px;
+    left: 50%;
+    background-color: #fff;
+}
+.total-table-container p{
+    font-size: 17px;
+}
+.payment-list{
+    margin: 0;
+}
+.payment-list button{
+    background-color: transparent;
+    border: 0;
+    padding:0;
+    font-size: 17px;
+    color: #c32282;
+    transition: all ease-in-out 0.3s;
+}
+.payment-list button:hover{
+    color: #ffc107;
+}
+.payment-list li:last-child{
+    padding-right: 0;
+}
+.rating-modal .radio{
+    margin: 20px 10px;
+}
+.rating-modal .radio input{
+    top: 10px;
+}
+.rating-modal .radio img{
+    height: 39px;
+    width: auto;
+}
+.total-btn-box{
+    height: 70px;
+    line-height: 70px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    background-color: #af116f;
+    
+}
+.total-btn{
+    height: 70px;
+    line-height: 70px;
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+    border: 0;
+    background-color: #39b54a;
+    display: block;
+    width: 100%;
+    transition: all ease-in-out 0.3s;
+}
+.total-btn:hover{
+    background-color: #329742;
+}
+.sm-no-padding{
+    margin-bottom: 40px;
+}
 @media (max-width: 767px){
     .meals-container .media .media-left,
     .restaurant-media-con .media .media-left{
@@ -16718,5 +16860,16 @@ a.btn_map:hover{
     }
     .tap-list a{
         font-size: 18px;
+    }
+}
+@media (min-width: 767px){
+    .sm-no-padding > div{
+        padding: 0;
+    }
+    .sm-no-padding > div:first-child{
+        padding-right: 3px;
+    }
+    .sm-no-padding > div:last-child{
+        padding-left: 3px;
     }
 }

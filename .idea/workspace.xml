@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8bc61b8a-5a12-4597-aac6-b0b32d8d6829" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/restaurant.html" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/all-restaurant.html" beforeDir="false" afterPath="$PROJECT_DIR$/all-restaurant.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheet/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,46 +14,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheet/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="16694" column="18" selection-start-line="16694" selection-start-column="18" selection-end-line="16694" selection-end-column="18" />
+            <state relative-caret-position="481">
+              <caret line="16869" column="20" selection-start-line="16869" selection-start-column="20" selection-end-line="16869" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/all-restaurant.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="493" column="44" selection-start-line="493" selection-start-column="44" selection-end-line="493" selection-end-column="44" />
+            <state relative-caret-position="266">
+              <caret line="660" column="29" selection-start-line="660" selection-start-column="29" selection-end-line="660" selection-end-column="29" />
               <folding>
-                <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#7;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#7;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#8;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#script#14;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#45230#45237#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/restaurant.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="846" selection-start-line="846" selection-end-line="898" selection-end-column="9" />
+            <state relative-caret-position="155">
+              <caret line="407" column="12" selection-start-line="407" selection-start-column="12" selection-end-line="407" selection-end-column="12" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -79,8 +58,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/map_hotels.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="114" column="47" lean-forward="true" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
+            <state relative-caret-position="1938">
+              <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -88,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://G:/htdocs/Mushini/Mushini/googlemap/js/map_restaurants.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="6290">
               <caret line="370" selection-start-line="370" selection-end-line="370" />
             </state>
           </provider>
@@ -98,16 +77,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>isotope</find>
-      <find>left</find>
-      <find>l</find>
-      <find>masonry-item</find>
-      <find>sortable-masonry</find>
-      <find>mt-3</find>
-      <find>date</find>
-      <find>my-title</find>
-      <find>btn_map</find>
-      <find>$</find>
       <find>Ma</find>
       <find>close_infobox</find>
       <find>.marker_info img</find>
@@ -128,6 +97,16 @@
       <find>r-section</find>
       <find>map</find>
       <find>.second-search-c input</find>
+      <find>edit-bnt</find>
+      <find>a-right</find>
+      <find>#shopping-cart-table a.remove-item</find>
+      <find>remove-item</find>
+      <find>movewishlist</find>
+      <find>qty1</find>
+      <find>.shopping-cart-tbl</find>
+      <find>myModalLabe2</find>
+      <find>total-table-container</find>
+      <find>myModalLabel</find>
     </findStrings>
     <replaceStrings>
       <replace>'Ubuntu', sans-serif</replace>
@@ -161,14 +140,16 @@
         <option value="G:/htdocs/Mushini/Mushini/googlemap/js/map_restaurants.js" />
         <option value="$PROJECT_DIR$/js/map_hotels.js" />
         <option value="$PROJECT_DIR$/restaurant.html" />
-        <option value="$PROJECT_DIR$/stylesheet/style.css" />
         <option value="$PROJECT_DIR$/all-restaurant.html" />
+        <option value="$PROJECT_DIR$/account.html" />
+        <option value="$PROJECT_DIR$/cart.html" />
+        <option value="$PROJECT_DIR$/stylesheet/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-19" />
-    <option name="y" value="175" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -242,18 +223,22 @@
       <workItem from="1555331206511" duration="6474000" />
       <workItem from="1555427483398" duration="2253000" />
       <workItem from="1555530433578" duration="6376000" />
-      <workItem from="1555558479195" duration="6665000" />
+      <workItem from="1555558479195" duration="7928000" />
+      <workItem from="1555714948394" duration="7998000" />
+      <workItem from="1555773356798" duration="1373000" />
+      <workItem from="1555916408026" duration="1557000" />
+      <workItem from="1556357541512" duration="6621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99546000" />
+    <option name="totallyTimeSpent" value="118358000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19440243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2065053" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,13 +471,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://G:/htdocs/Mushini/Mushini/googlemap/js/map_restaurants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="370" selection-start-line="370" selection-end-line="370" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/infobox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-31" />
@@ -503,48 +481,15 @@
         <state relative-caret-position="-31" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/map_hotels.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="114" column="47" lean-forward="true" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/restaurant.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="846" selection-start-line="846" selection-end-line="898" selection-end-column="9" />
-          <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#9;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="16694" column="18" selection-start-line="16694" selection-start-column="18" selection-end-line="16694" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/all-restaurant.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="493" column="44" selection-start-line="493" selection-start-column="44" selection-end-line="493" selection-end-column="44" />
+        <state relative-caret-position="498">
+          <caret line="476" column="30" selection-start-line="476" selection-start-column="30" selection-end-line="476" selection-end-column="30" />
           <folding>
             <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -563,6 +508,66 @@
             <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#script#14;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="193" column="50" lean-forward="true" selection-start-line="193" selection-start-column="50" selection-end-line="193" selection-end-column="50" />
+          <folding>
+            <element signature="n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/map_hotels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/htdocs/Mushini/Mushini/googlemap/js/map_restaurants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6290">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restaurant.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="407" column="12" selection-start-line="407" selection-start-column="12" selection-end-line="407" selection-end-column="12" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#9;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="660" column="29" selection-start-line="660" selection-start-column="29" selection-end-line="660" selection-end-column="29" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#form#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#45230#45237#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="16869" column="20" selection-start-line="16869" selection-start-column="20" selection-end-line="16869" selection-end-column="20" />
         </state>
       </provider>
     </entry>
