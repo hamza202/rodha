@@ -176,36 +176,339 @@
             <div class="row">
                 <div class="col-xs-12">
                     <div class="account-container">
-                        <div class="acc-title">
-                        <div class="row">
-                            <div class="col-xs-9">
-                                <h3 class="main-color title-img">
-                                    <img src="images/account1.png" class="d-inline-block" alt="">
-                                    My Account
-                                </h3>
-                            </div>
-                            <div class="col-xs-3 text-right">
-                                <i class="fa fa-pencil" aria-hidden="true"></i>
-                            </div>
-                        </div>
-                        </div>
-                        <div class="acc-details">
-                        <div class="row">
-                            <div class="col-md-3">
-                                <div class="img-border">
-                                    <img src="images/user.png" alt="">
+                        <form action="#">
+                            <div class="acc-title">
+                                <div class="row">
+                                    <div class="col-xs-9">
+                                        <h3 class="main-color title-img">
+                                            <img src="images/account1.png" class="d-inline-block" alt="">
+                                            My Account
+                                        </h3>
+                                    </div>
+                                    <div class="col-xs-3 text-right">
+                                        <button type="submit" class="acc-btn">
+                                            <i class="fa fa-pencil" aria-hidden="true"></i>
+                                        </button>
+                                    </div>
                                 </div>
                             </div>
-                            <div class="ol-md-6">
-                                <form action="#"></form>
+                            <div class="acc-details">
+                                <div class="row">
+                                    <div class="col-md-3">
+                                        <div class="img-border">
+                                            <img src="images/user.png" alt="">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <input type="text" placeholder="User name" required>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="email" placeholder="Email" required>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="text" placeholder="Phone number" required>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="password" placeholder="Old password" required>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="password" id="password" placeholder="New password"
+                                                       class="mb-sm-0" required>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <input type="password" id="confirm_password"
+                                                       placeholder="confirm password" class="mb-sm-0" required>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3">
+                                        <div class="img-border point-block">
+                                            <div class="point-inner-block">
+                                                <h2>50</h2>
+                                                <h3>نقطة</h3>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-md-3">
-
-                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <section class="requests-section">
+            <div class="container">
+                <div class="requests-container">
+                    <div class="row">
+                        <div class="col-xs-12">
+                            <h3 class="main-color title-img">
+                                <img src="images/requst.png" class="d-inline-block" alt="">
+                                My requests
+                            </h3>
                         </div>
+                        <div class="col-xs-12">
+                            <div class="requests-box-container">
+                                <div class="row">
+                                    <div class="col-lg-6">
+                                        <div class="requests-box">
+                                            <div class="request-details-box">
+                                                <div class="clearfix">
+                                                    <button title="Remove" class="remove-button">
+                                                        <i class="fa fa-trash-o" aria-hidden="true"></i>
+                                                    </button>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order number</p>
+                                                    <p class="pull-right">12345</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order date</p>
+                                                    <p class="pull-right">15/05/2019</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Number of items</p>
+                                                    <p class="pull-right">5 items</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left main-color">Total</p>
+                                                    <p class="pull-right main-color">300 RS</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left mb-0">Order state</p>
+                                                    <ul class="pull-right mb-0 list-inline clearfix">
+                                                        <li class="text-left active">
+                                                            <span></span>
+                                                            <p>New</p>
+                                                        </li>
+                                                        <li class="text-center">
+                                                            <span></span>
+                                                            <p>In processed</p>
+                                                        </li>
+                                                        <li class="text-right">
+                                                            <span></span>
+                                                            <p>Done</p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <a href="#" class="big-btn">
+                                                Edit
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="requests-box">
+                                            <div class="request-details-box">
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order number</p>
+                                                    <p class="pull-right">12345</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order date</p>
+                                                    <p class="pull-right">15/05/2019</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Number of items</p>
+                                                    <p class="pull-right">5 items</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left main-color">Total</p>
+                                                    <p class="pull-right main-color">300 RS</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left mb-0">Order state</p>
+                                                    <ul class="pull-right mb-0 list-inline clearfix">
+                                                        <li class="text-left active">
+                                                            <span></span>
+                                                            <p>New</p>
+                                                        </li>
+                                                        <li class="text-center active">
+                                                            <span></span>
+                                                            <p>In processed</p>
+                                                        </li>
+                                                        <li class="text-right">
+                                                            <span></span>
+                                                            <p>Done</p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <button data-toggle="modal" data-target="#myModal" class="big-btn">
+                                                Show QR Code
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="requests-box">
+                                            <div class="request-details-box">
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order number</p>
+                                                    <p class="pull-right">12345</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order date</p>
+                                                    <p class="pull-right">15/05/2019</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Number of items</p>
+                                                    <p class="pull-right">5 items</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left main-color">Total</p>
+                                                    <p class="pull-right main-color">300 RS</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left mb-0">Order state</p>
+                                                    <ul class="pull-right mb-0 list-inline clearfix">
+                                                        <li class="text-left active">
+                                                            <span></span>
+                                                            <p>New</p>
+                                                        </li>
+                                                        <li class="text-center active">
+                                                            <span></span>
+                                                            <p>In processed</p>
+                                                        </li>
+                                                        <li class="text-right">
+                                                            <span></span>
+                                                            <p>Done</p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <button data-toggle="modal" data-target="#myModal" class="big-btn">
+                                                Show QR Code
+                                            </button>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <div class="requests-box">
+                                            <div class="request-details-box">
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order number</p>
+                                                    <p class="pull-right">12345</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Order date</p>
+                                                    <p class="pull-right">15/05/2019</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left">Number of items</p>
+                                                    <p class="pull-right">5 items</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left main-color">Total</p>
+                                                    <p class="pull-right main-color">300 RS</p>
+                                                </div>
+                                                <div class="clearfix">
+                                                    <p class="pull-left mb-0">Order state</p>
+                                                    <ul class="pull-right mb-0 list-inline clearfix">
+                                                        <li class="text-left active">
+                                                            <span></span>
+                                                            <p>New</p>
+                                                        </li>
+                                                        <li class="text-center active">
+                                                            <span></span>
+                                                            <p>In processed</p>
+                                                        </li>
+                                                        <li class="text-right active">
+                                                            <span></span>
+                                                            <p>Done</p>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                            <button data-toggle="modal" data-target="#myModa2" class="big-btn">
+                                                Rating order
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
+        </section>
+        <div class="container">
+            <div class="account-container mb-5">
+                <form action="#">
+                    <div class="acc-title">
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <h3 class="main-color title-img">
+                                    <img src="images/mony.png" class="d-inline-block" alt="">
+                                    Payment methods
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="acc-details">
+                        <div class="row">
+                            <div class="col-lg-2 col-md-3 col-sm-4">
+                                <div class="payment-card">
+                                    <div>
+                                        <img src="images/paypal.png" alt="">
+                                        <h4 class="mb-0">
+                                            PayPal
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-3 col-sm-4">
+                                <div class="payment-card">
+                                    <div>
+                                        <img src="images/master-card.png" alt="">
+                                        <h4 class="mb-0">
+                                            MasterCard
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-3 col-sm-4">
+                                <div class="payment-card">
+                                    <div>
+                                        <img src="images/mada.png" alt="">
+                                        <h4 class="mb-0">
+                                            مدى Mada
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-3 col-sm-4">
+                                <div class="payment-card">
+                                    <div>
+                                        <img src="images/paypal.png" alt="">
+                                        <h4 class="mb-0">
+                                            PayPal
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-3 col-sm-4">
+                                <div class="payment-card">
+                                    <div>
+                                        <img src="images/master-card.png" alt="">
+                                        <h4 class="mb-0">
+                                            MasterCard
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-3 col-sm-4">
+                                <div class="payment-card">
+                                    <div>
+                                        <img src="images/mada.png" alt="">
+                                        <h4 class="mb-0">
+                                            مدى Mada
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
             </div>
         </div>
     </div>
@@ -332,7 +635,29 @@
                 <div class="modal-header">
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
                             aria-hidden="true">&times;</span></button>
-                    <h4 class="modal-title" id="myModalLabel">Rating restaurant</h4>
+                    <h4 class="modal-title" id="myModalLabel">Show QR Code</h4>
+                </div>
+                <div class="modal-body text-center">
+                    <img src="images/qr.png" class="img-responsive qr-img" alt="">
+                </div>
+                <div class="modal-footer">
+                    <button type="button" data-dismiss="modal" aria-label="Close" class="rating-btn">Close</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal -->
+<div class="modal fade rating-modal" id="myModa2" tabindex="-1" role="dialog" aria-labelledby="myModalLabe2">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <form action="#">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                            aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabe2">Rating order</h4>
                 </div>
                 <div class="modal-body text-center">
                     <section class="rating-widget">
@@ -378,82 +703,23 @@
 <script src="js/jquery.bxslider.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/jquery.mobile-menu.min.js"></script>
-<script src="js/countdown.js"></script>
 <script>
+    var password = document.getElementById("password")
+        , confirm_password = document.getElementById("confirm_password");
 
-    jQuery(document).ready(function () {
-        jQuery('#stars li').on('mouseover', function () {
-            var onStar = parseInt(jQuery(this).data('value'), 10);
-            jQuery(this).parent().children('li.star').each(function (e) {
-                if (e < onStar) {
-                    jQuery(this).addClass('hover');
-                } else {
-                    jQuery(this).removeClass('hover');
-                }
-            });
-
-        }).on('mouseout', function () {
-            jQuery(this).parent().children('li.star').each(function (e) {
-                jQuery(this).removeClass('hover');
-            });
-        });
-
-
-        /* 2. Action to perform on click */
-        jQuery('#stars li').on('click', function () {
-            var onStar = parseInt(jQuery(this).data('value'), 10);
-            var stars = jQuery(this).parent().children('li.star');
-
-            for (i = 0; i < stars.length; i++) {
-                jQuery(stars[i]).removeClass('selected');
-            }
-
-            for (i = 0; i < onStar; i++) {
-                jQuery(stars[i]).addClass('selected');
-            }
-
-            // JUST RESPONSE (Not needed)
-            var ratingValue = parseInt(jQuery('#stars li.selected').last().data('value'), 10);
-            var msg = "";
-            if (ratingValue > 1) {
-                msg = ratingValue;
-            } else {
-                msg = ratingValue;
-            }
-            responseMessage(msg);
-
-        });
-
-
-    });
-
-    function responseMessage(msg) {
-        jQuery('.success-box').fadeIn(200);
-        jQuery('.success-box div.text-message').html("<span>" + msg + "</span>");
+    function validatePassword() {
+        if (password.value != confirm_password.value) {
+            confirm_password.setCustomValidity("Passwords Don't Match");
+        } else {
+            confirm_password.setCustomValidity('');
+        }
     }
+
+    password.onchange = validatePassword;
+    confirm_password.onkeyup = validatePassword;
 </script>
 
-<script>
-    function HideMe() {
-        jQuery('.popup1').hide();
-        jQuery('#fade').hide();
-    }
-</script>
-<!-- Hot Deals Timer 1-->
-<script>
-    var dthen1 = new Date("12/25/17 11:59:00 PM");
-    start = "08/04/15 03:02:11 AM";
-    start_date = Date.parse(start);
-    var dnow1 = new Date(start_date);
-    if (CountStepper > 0)
-        ddiff = new Date((dnow1) - (dthen1));
-    else
-        ddiff = new Date((dthen1) - (dnow1));
-    gsecs1 = Math.floor(ddiff.valueOf() / 1000);
 
-    var iid1 = "countbox_1";
-    CountBack_slider(gsecs1, "countbox_1", 1);
-</script>
 </body>
 
 </html>
