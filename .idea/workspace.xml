@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8bc61b8a-5a12-4597-aac6-b0b32d8d6829" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheet/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheet/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="17316" column="5" selection-start-line="17316" selection-start-column="5" selection-end-line="17316" selection-end-column="5" />
+              <caret line="17316" column="12" lean-forward="true" selection-start-line="17316" selection-start-column="12" selection-end-line="17316" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -41,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="1176" column="8" lean-forward="true" selection-start-line="1172" selection-start-column="35" selection-end-line="1176" selection-end-column="8" />
+            <state relative-caret-position="328">
+              <caret line="1023" column="23" selection-start-line="1023" selection-start-column="23" selection-end-line="1023" selection-end-column="23" />
               <folding>
                 <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -73,10 +71,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="12573" selection-start-line="5" selection-start-column="12573" selection-end-line="5" selection-end-column="12573" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/common.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="157" column="25" selection-start-line="157" selection-start-column="19" selection-end-line="157" selection-end-column="25" />
+            <state relative-caret-position="44">
+              <caret line="151" column="19" lean-forward="true" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
               <folding>
                 <element signature="e#23#29#1" expanded="true" />
               </folding>
@@ -87,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new-acc.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="210" column="10" lean-forward="true" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+            <state relative-caret-position="1275">
+              <caret line="210" column="10" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -97,7 +107,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reset-password.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="314">
@@ -152,7 +162,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="529">
+            <state relative-caret-position="3009">
               <caret line="784" column="48" selection-start-line="784" selection-start-column="41" selection-end-line="784" selection-end-column="48" />
               <folding>
                 <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -167,10 +177,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>#shopping-cart-table a.remove-item</find>
-      <find>remove-item</find>
-      <find>movewishlist</find>
-      <find>qty1</find>
       <find>.shopping-cart-tbl</find>
       <find>myModalLabe2</find>
       <find>total-table-container</find>
@@ -195,8 +201,12 @@
       <find>Restaurants</find>
       <find>fl-nav-links</find>
       <find>second-color my-second-btn my-title</find>
-      <find>.number-log input</find>
       <find>password</find>
+      <find>Nwe account</find>
+      <find>youtu</find>
+      <find>.number-log input</find>
+      <find>17</find>
+      <find>modal-open</find>
     </findStrings>
     <replaceStrings>
       <replace>'Ubuntu', sans-serif</replace>
@@ -234,15 +244,16 @@
         <option value="$PROJECT_DIR$/js/common.js" />
         <option value="$PROJECT_DIR$/js/jquery.min.js" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/stylesheet/style.css" />
         <option value="$PROJECT_DIR$/new-acc.html" />
         <option value="$PROJECT_DIR$/reset-password.html" />
+        <option value="C:/My Web Sites/medyaf landing page/pixner.net/arribo/demo/index.html" />
+        <option value="$PROJECT_DIR$/stylesheet/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="53" />
-    <option name="y" value="63" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -329,18 +340,19 @@
       <workItem from="1559697400060" duration="5902000" />
       <workItem from="1559858978338" duration="4080000" />
       <workItem from="1559937341379" duration="4486000" />
-      <workItem from="1559983339856" duration="9854000" />
+      <workItem from="1559983339856" duration="11112000" />
+      <workItem from="1560587622351" duration="243000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164949000" />
+    <option name="totallyTimeSpent" value="166450000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -497,16 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="29" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="29" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://D:/panagea_v.1.3/html/hotels-grid-isotope.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
@@ -596,6 +598,51 @@
     <entry file="file://$PROJECT_DIR$/stylesheet/font-awesome.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/map_hotels.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/htdocs/Mushini/Mushini/googlemap/js/map_restaurants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="370" selection-start-line="370" selection-end-line="370" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.mobile-menu.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6842" selection-start-line="3" selection-start-column="6842" selection-end-line="3" selection-end-column="6842" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/My Web Sites/medyaf landing page/pixner.net/arribo/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="104" column="98" lean-forward="true" selection-start-line="104" selection-start-column="98" selection-end-line="104" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new-acc.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="210" column="10" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+          <folding>
+            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/account.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
@@ -637,23 +684,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/map_hotels.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://G:/htdocs/Mushini/Mushini/googlemap/js/map_restaurants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="370" selection-start-line="370" selection-end-line="370" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cart.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
+        <state relative-caret-position="3009">
           <caret line="784" column="48" selection-start-line="784" selection-start-column="41" selection-end-line="784" selection-end-column="48" />
           <folding>
             <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -663,33 +696,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.mobile-menu.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
+    <entry file="file://$PROJECT_DIR$/reset-password.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6842" selection-start-line="3" selection-start-column="6842" selection-end-line="3" selection-end-column="6842" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/common.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="157" column="25" selection-start-line="157" selection-start-column="19" selection-end-line="157" selection-end-column="25" />
-          <folding>
-            <element signature="e#23#29#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="314">
+          <caret line="194" column="105" selection-start-line="194" selection-start-column="105" selection-end-line="194" selection-end-column="105" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="1176" column="8" lean-forward="true" selection-start-line="1172" selection-start-column="35" selection-end-line="1176" selection-end-column="8" />
+        <state relative-caret-position="328">
+          <caret line="1023" column="23" selection-start-line="1023" selection-start-column="23" selection-end-line="1023" selection-end-column="23" />
           <folding>
             <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#style#0;n#img#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -718,28 +735,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheet/style.css">
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17316" column="5" selection-start-line="17316" selection-start-column="5" selection-end-line="17316" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/new-acc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="210" column="10" lean-forward="true" selection-start-line="210" selection-start-column="10" selection-end-line="210" selection-end-column="10" />
+        <state relative-caret-position="85">
+          <caret line="5" column="12573" selection-start-line="5" selection-start-column="12573" selection-end-line="5" selection-end-column="12573" />
           <folding>
-            <element signature="n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reset-password.html">
+    <entry file="file://$PROJECT_DIR$/js/common.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="194" column="105" selection-start-line="194" selection-start-column="105" selection-end-line="194" selection-end-column="105" />
+        <state relative-caret-position="44">
+          <caret line="151" column="19" lean-forward="true" selection-start-line="151" selection-start-column="19" selection-end-line="151" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#29#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheet/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17316" column="12" lean-forward="true" selection-start-line="17316" selection-start-column="12" selection-end-line="17316" selection-end-column="12" />
         </state>
       </provider>
     </entry>

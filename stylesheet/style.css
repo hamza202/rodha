@@ -17317,6 +17317,7 @@ p.larg-text{
 label.error{
     margin-bottom: 0;
 }
+body { padding-right: 0 !important }
 @media (max-width: 767px) {
     .meals-container .media .media-left,
     .restaurant-media-con .media .media-left {
