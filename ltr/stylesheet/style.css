@@ -17326,7 +17326,9 @@ body { padding-right: 0 !important }
         text-align: center;
         padding: 0;
     }
-
+    #top .card-container{
+        margin-bottom: 20px;
+    }
     .acc-details input {
         margin-bottom: 20px;
     }

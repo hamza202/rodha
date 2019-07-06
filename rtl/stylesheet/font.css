@@ -1,0 +1,24 @@
+
+@font-face {
+    font-family: Ubuntu;
+    src:
+            local("Ubuntu r"),
+            url(fonts/ArbFONTS-Ubuntu-Kurdish-Kurdfont.ttf) ;
+    font-weight: 400;
+}
+
+/*@font-face {*/
+    /*font-family: Ubuntu;*/
+    /*src:*/
+            /*local("Ubuntu m"),*/
+            /*url(fonts/Ubuntu-M.ttf) format("ttf");*/
+    /*font-weight: 600;*/
+/*}*/
+
+/*@font-face {*/
+    /*font-family: Ubuntu;*/
+    /*src:*/
+            /*local("Ubuntu b"),*/
+            /*url(fonts/Ubuntu-B.ttf) format("ttf");*/
+    /*font-weight: 700;*/
+/*}*/
